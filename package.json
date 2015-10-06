@@ -4,7 +4,7 @@
   "description": "CS fundamentals in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt --verbose"
   },
   "repository": {
     "type": "git",
