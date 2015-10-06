@@ -1,0 +1,27 @@
+{
+  "name": "javacsript",
+  "version": "0.0.1",
+  "description": "CS fundamentals in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevmo/JavaCSript.git"
+  },
+  "keywords": [
+    "javascript",
+    "computer",
+    "science",
+    "algorithms",
+    "data",
+    "structures"
+  ],
+  "author": "kevmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevmo/JavaCSript/issues"
+  },
+  "homepage": "https://github.com/kevmo/JavaCSript#readme"
+}
