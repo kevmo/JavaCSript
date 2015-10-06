@@ -1,1 +1,1 @@
-[https://travis-ci.org/kevmo/JavaCSript.svg?branch=master]
+![Build status](https://travis-ci.org/kevmo/JavaCSript.svg?branch=master)
