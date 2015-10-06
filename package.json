@@ -4,7 +4,7 @@
   "description": "CS fundamentals in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "grunt --verbose"
+    "test": "grunt test"
   },
   "repository": {
     "type": "git",
@@ -26,9 +26,10 @@
   "homepage": "https://github.com/kevmo/JavaCSript#readme",
   "devDependencies": {
     "chai": "^3.3.0",
-    "grunt": "^0.4.5",
+    "grunt": "latest",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-jshint": "^0.11.3",
+    "grunt-mocha": "^0.4.13",
     "mocha": "^2.3.3"
   }
 }
