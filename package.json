@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/kevmo/JavaCSript/issues"
   },
-  "homepage": "https://github.com/kevmo/JavaCSript#readme"
+  "homepage": "https://github.com/kevmo/JavaCSript#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "grunt": "^0.4.5",
+    "mocha": "^2.3.3"
+  }
 }
